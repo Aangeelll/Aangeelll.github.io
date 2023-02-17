@@ -87,4 +87,5 @@ exclude:
 
 collections:
   -admins
-  google_analytics: "G-XDB8GG7D3P
+
+google_analytics: "G-XDB8GG7D3P"
