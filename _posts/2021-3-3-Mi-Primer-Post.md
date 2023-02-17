@@ -1,6 +1,8 @@
 ---
 layout: post
+comments: true
 title: Pincha aqui anda
+
 ---
 
 No te vas a creer lo que hay
