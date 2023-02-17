@@ -1,9 +1,9 @@
 ---
 layout: post
-title: esto es lo que se ve asi de claro
+title: Pincha aqui anda
 ---
 
-texto traducido en espanol
+No te vas a creer lo que hay
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
