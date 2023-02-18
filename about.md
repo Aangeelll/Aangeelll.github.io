@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Nosotros
 permalink: /about/
 ---
 
-Some information about you!
+Los mejores el paco y yo
 
-### More Information
+### Tus alumnos favoritos
 
-A place to include any other types of information that you'd like to include about yourself.
+Javi (cabezon) y Angel (guapeton)
 
-### Contact me
+### tiririri
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](tiriri@tiriri.com)
