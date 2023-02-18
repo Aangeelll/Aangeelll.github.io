@@ -1,7 +1,14 @@
 # frozen_string_literal: true
 
+# gem "rails"
+
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
-
-# gem "rails"
+gem 'jekyll', '~> 3.9.3'
+gem 'jekyll-paginate' # for pagination
+gem 'github-pages', group: :jekyll_plugins # for github pages
+# gem 'minima',  github: "jekyll/minima" # for github pages
+gem "webrick", "~> 1.8"
+gem "jekyll-include-cache"
+gem "jekyll-remote-theme"
+# gem "minimal-mistakes-jekyll"
