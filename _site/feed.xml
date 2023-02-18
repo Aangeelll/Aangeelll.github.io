@@ -1,19 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-18T16:56:35+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your Name</title><subtitle>Web Developer from Somewhere</subtitle><entry><title type="html">Pincha aqui anda</title><link href="http://localhost:4000/Mi-Primer-Post/" rel="alternate" type="text/html" title="Pincha aqui anda" /><published>2021-03-03T00:00:00+01:00</published><updated>2021-03-03T00:00:00+01:00</updated><id>http://localhost:4000/Mi-Primer-Post</id><content type="html" xml:base="http://localhost:4000/Mi-Primer-Post/">&lt;p&gt;No te vas a creer lo que hay&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-18T18:32:02+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">papiymami</title><subtitle>la que te cuento</subtitle><entry><title type="html">Tabla</title><link href="http://localhost:4000/tabla/" rel="alternate" type="text/html" title="Tabla" /><published>2021-03-03T00:00:00+01:00</published><updated>2021-03-03T00:00:00+01:00</updated><id>http://localhost:4000/tabla</id><content type="html" xml:base="http://localhost:4000/tabla/">&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Nombre&lt;/th&gt;
+      &lt;th&gt;Edad&lt;/th&gt;
+      &lt;th&gt;Ciudad&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    
+      &lt;tr&gt;
+        &lt;td&gt;Juan&lt;/td&gt;
+        &lt;td&gt;25&lt;/td&gt;
+        &lt;td&gt;Madrid&lt;/td&gt;
+      &lt;/tr&gt;
+    
+      &lt;tr&gt;
+        &lt;td&gt;Ana&lt;/td&gt;
+        &lt;td&gt;31&lt;/td&gt;
+        &lt;td&gt;Barcelona&lt;/td&gt;
+      &lt;/tr&gt;
+    
+      &lt;tr&gt;
+        &lt;td&gt;Pedro&lt;/td&gt;
+        &lt;td&gt;19&lt;/td&gt;
+        &lt;td&gt;Valencia&lt;/td&gt;
+      &lt;/tr&gt;
+    
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><summary type="html">Nombre Edad Ciudad Juan 25 Madrid Ana 31 Barcelona Pedro 19 Valencia</summary></entry><entry><title type="html">Pincha aqui anda</title><link href="http://localhost:4000/Mi-Primer-Post/" rel="alternate" type="text/html" title="Pincha aqui anda" /><published>2021-03-03T00:00:00+01:00</published><updated>2021-03-03T00:00:00+01:00</updated><id>http://localhost:4000/Mi-Primer-Post</id><content type="html" xml:base="http://localhost:4000/Mi-Primer-Post/">&lt;p&gt;No te vas a creer lo que hay&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/config.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;poues vaya bomba de post y este tema que hemos usado y lo puedes encontrar aqui maquina &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;Jekyll Now repository&lt;/a&gt; on GitHub.&lt;/p&gt;</content><author><name></name></author><summary type="html">No te vas a creer lo que hay</summary></entry><entry><title type="html">Mi tercera publicación</title><link href="http://localhost:4000/pelis/" rel="alternate" type="text/html" title="Mi tercera publicación" /><published>2020-08-07T00:00:00+02:00</published><updated>2020-08-07T00:00:00+02:00</updated><id>http://localhost:4000/pelis</id><content type="html" xml:base="http://localhost:4000/pelis/">&lt;p&gt;¡Hola a todos! Aquí les dejo una lista de algunas de mis películas favoritas:&lt;/p&gt;
+&lt;p&gt;poues vaya bomba de post y este tema que hemos usado y lo puedes encontrar aqui maquina &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;Jekyll Now repository&lt;/a&gt; on GitHub.&lt;/p&gt;</content><author><name></name></author><summary type="html">No te vas a creer lo que hay</summary></entry><entry><title type="html">Pelis bombetas</title><link href="http://localhost:4000/pelis/" rel="alternate" type="text/html" title="Pelis bombetas" /><published>2020-08-07T00:00:00+02:00</published><updated>2020-08-07T00:00:00+02:00</updated><id>http://localhost:4000/pelis</id><content type="html" xml:base="http://localhost:4000/pelis/">&lt;p&gt;¡Hola a todos! Aquí les dejo una lista de algunas de mis películas favoritas:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;El padrino&lt;/li&gt;
   &lt;li&gt;El señor de los anillos&lt;/li&gt;
   &lt;li&gt;Volver al futuro&lt;/li&gt;
   &lt;li&gt;La naranja mecánica&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">¡Hola a todos! Aquí les dejo una lista de algunas de mis películas favoritas:</summary></entry><entry><title type="html">Mi segunda publicación</title><link href="http://localhost:4000/mascotat/" rel="alternate" type="text/html" title="Mi segunda publicación" /><published>2020-05-05T00:00:00+02:00</published><updated>2020-05-05T00:00:00+02:00</updated><id>http://localhost:4000/mascotat</id><content type="html" xml:base="http://localhost:4000/mascotat/">&lt;p&gt;¡Hola de nuevo! Aquí les dejo una imagen de mi mascota: (imagenes estaticas)&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">¡Hola a todos! Aquí les dejo una lista de algunas de mis películas favoritas:</summary></entry><entry><title type="html">Mis salchichas (imagenes estaticas)</title><link href="http://localhost:4000/mascotat/" rel="alternate" type="text/html" title="Mis salchichas (imagenes estaticas)" /><published>2020-05-05T00:00:00+02:00</published><updated>2020-05-05T00:00:00+02:00</updated><id>http://localhost:4000/mascotat</id><content type="html" xml:base="http://localhost:4000/mascotat/">&lt;p&gt;¡Hola de nuevo! Aquí les dejo una imagen de mi mascota: (imagenes estaticas)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/salch.png&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/png-clipart-dachshund-rottweiler-dog-breed-puppy-pet-puppy-animals-carnivoran.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">¡Hola de nuevo! Aquí les dejo una imagen de mi mascota: (imagenes estaticas)</summary></entry><entry><title type="html">You’re up and running!</title><link href="http://localhost:4000/Hello-World/" rel="alternate" type="text/html" title="You’re up and running!" /><published>2014-03-03T00:00:00+01:00</published><updated>2014-03-03T00:00:00+01:00</updated><id>http://localhost:4000/Hello-World</id><content type="html" xml:base="http://localhost:4000/Hello-World/">&lt;p&gt;Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/config.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;Jekyll Now repository&lt;/a&gt; on GitHub.&lt;/p&gt;</content><author><name></name></author><summary type="html">Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).</summary></entry><entry><title type="html">hola mundo</title><link href="http://localhost:4000/Hola-Mundo/" rel="alternate" type="text/html" title="hola mundo" /><published>2014-03-03T00:00:00+01:00</published><updated>2014-03-03T00:00:00+01:00</updated><id>http://localhost:4000/Hola-Mundo</id><content type="html" xml:base="http://localhost:4000/Hola-Mundo/">&lt;p&gt;hola mundo&lt;/p&gt;</content><author><name></name></author><summary type="html">hola mundo</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/salch.png&quot; alt=&quot;_perrete.yml&quot; /&gt;
+&lt;img src=&quot;/images/png-clipart-dachshund-rottweiler-dog-breed-puppy-pet-puppy-animals-carnivoran.png&quot; alt=&quot;_perrete.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">¡Hola de nuevo! Aquí les dejo una imagen de mi mascota: (imagenes estaticas)</summary></entry><entry><title type="html">Que miras?</title><link href="http://localhost:4000/Hola-Mundo/" rel="alternate" type="text/html" title="Que miras?" /><published>2014-03-03T00:00:00+01:00</published><updated>2014-03-03T00:00:00+01:00</updated><id>http://localhost:4000/Hola-Mundo</id><content type="html" xml:base="http://localhost:4000/Hola-Mundo/">&lt;p&gt;&lt;img src=&quot;/images/st,small,507x507-pad,600x600,f8f8f8.jpg&quot; alt=&quot;_perrete.yml&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>

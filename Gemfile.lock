@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/jekyll/minima.git
+  revision: 32468f51758b0b37c2b1f423265d4f29db461b27
+  specs:
+    minima (2.5.1)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -205,10 +214,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    minima (2.5.1)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     minitest (5.17.0)
     nokogiri (1.14.2-x86-mingw32)
       racc (~> 1.4)
@@ -258,6 +263,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-paginate
   jekyll-remote-theme
+  minima!
   webrick (~> 1.8)
 
 BUNDLED WITH
